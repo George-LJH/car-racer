@@ -5,7 +5,8 @@
         "device": "*",
         "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
         "Tile Animator": "github:LautaroCeballos/Tiles-Animator#2e87fd85737dcf61210ea9004eac2167c1e59fb6",
-        "arcade-tilemap-a-star": "github:jwunderl/arcade-tilemap-a-star#v0.4.0"
+        "arcade-tilemap-a-star": "github:jwunderl/arcade-tilemap-a-star#v0.4.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
     },
     "files": [
         "main.blocks",
